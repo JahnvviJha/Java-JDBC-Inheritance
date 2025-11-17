@@ -1,10 +1,5 @@
 # Java-JDBC-Inheritance
 
-Here is a **clean, professional, marks-scoring README.md** for your practical submission.
-
-You can paste this directly into your GitHub repo → `README.md`
-(Everything is formatted for maximum clarity.)
-
 ---
 
 # 📌 Java JDBC – Multilevel Inheritance Project
